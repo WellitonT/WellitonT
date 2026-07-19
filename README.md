@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, sou o Welliton 👋
 
-<!--
-**WellitonT/WellitonT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em transição de carreira para tecnologia, construindo conhecimento sólido em **Engenharia de Dados**, com foco em evoluir para **Machine Learning** e **Engenharia de IA**.
 
-Here are some ideas to get you started:
+## 🚀 Jornada atual
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sigo uma trilha estruturada e prática:
+
+`Python` → `SQL` → `Big Data & Cloud` → `Machine Learning` → `Deep Learning` → `Engenharia de IA / LLMs` → `MLOps`
+
+Todo o conhecimento é aplicado em um projeto contínuo — o **TechStore Analytics** — em vez de exercícios isolados, simulando como um sistema real evolui ao longo do tempo.
+
+## 🛠️ Tecnologias que já domino
+
+- **Python** — POO, tratamento de erros, manipulação de arquivos
+- **SQL** — SQLite, modelagem relacional, consultas
+- **Git & GitHub** — versionamento e colaboração
+
+## 📌 Projeto em destaque
+
+**[TechStore Analytics](https://github.com/WellitonT/techstore-analytics)** — Sistema de gestão de catálogo evoluindo de scripts Python simples até integração com banco de dados relacional.
+
+## 📫 Como me encontrar
+
+- LinkedIn: Em construção...
+
+---
+*Este perfil reflete um trabalho contínuo — novos commits são evidência de progresso real, não teoria.*
