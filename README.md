@@ -22,7 +22,7 @@ Todo o conhecimento é aplicado em um projeto contínuo — o **TechStore Analyt
 
 ## 📫 Como me encontrar
 
-- LinkedIn: Em construção...
+- LinkedIn: https://www.linkedin.com/in/welliton-tiene-336bb7207/
 
 ---
 *Este perfil reflete um trabalho contínuo — novos commits são evidência de progresso real, não teoria.*
