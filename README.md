@@ -8,7 +8,7 @@ Sigo uma trilha estruturada e prática:
 
 `Python` → `SQL` → `Big Data & Cloud` → `Machine Learning` → `Deep Learning` → `Engenharia de IA / LLMs` → `MLOps`
 
-Todo o conhecimento é aplicado em um projeto contínuo — o **TechStore Analytics** — em vez de exercícios isolados, simulando como um sistema real evolui ao longo do tempo.
+Todo o conhecimento é aplicado em um projeto contínuo — o **NBA Data Warehouse** — em vez de exercícios isolados, simulando como um sistema real evolui ao longo do tempo.
 
 ## 🛠️ Tecnologias que já domino
 
