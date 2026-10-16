@@ -1,6 +1,6 @@
 # Olá, sou o Welliton 👋
 
-Estou em transição de carreira para tecnologia, construindo conhecimento sólido em **DevOps**, com foco em evoluir para **Machine Learning** >> **MLOps** e **Engenharia de IA**.
+Estou em transição de carreira para tecnologia, construindo conhecimento sólido com o objetivo de evoluir para **Machine Learning** >> **MLOps** e **Engenharia de IA**.
 
 ## 🚀 Jornada atual
 
