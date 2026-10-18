@@ -1,33 +1,33 @@
 # Olá, sou o Welliton 👋
 
-Estou em transição de carreira para tecnologia, construindo conhecimento sólido com o objetivo de evoluir para **Machine Learning** >> **MLOps** e **Engenharia de IA**.
+Desenvolvedor autodidata no Rio de Janeiro, em transição de carreira para tecnologia. Meu foco é **Dados e Machine Learning**: construo a base em engenharia de dados e infraestrutura para chegar a **MLOps e AI Engineering**.
 
-## 🚀 Jornada atual
+*English: self-taught developer building data engineering and infrastructure foundations (Python, SQL, ETL, testing, Linux) on the path to ML and MLOps.*
 
-Sigo uma trilha estruturada e prática:
+## Projeto principal
 
-`Python` → `SQL` → `Big Data & Cloud` → `Machine Learning` → `Deep Learning` → `Engenharia de IA / LLMs` → `MLOps`
+**[NBA Data Warehouse](https://github.com/WellitonT/nba-data-warehouse)** é um pipeline ETL em Python que puxa estatísticas da API oficial da NBA, trata a qualidade dos dados e carrega tudo em um warehouse SQLite com tabelas dimensão e fato.
 
-Todo o conhecimento é aplicado em um projeto contínuo — o **NBA Data Warehouse** — em vez de exercícios isolados, simulando como um sistema real evolui ao longo do tempo.
+- **Extração resiliente:** retry com backoff e logging estruturado, porque a API da NBA é instável.
+- **Qualidade de dados:** remove as linhas de totalização (`TOT`) de jogadores trocados de time, que duplicariam qualquer soma, e corrige tipos numéricos.
+- **Carga idempotente:** constraint `UNIQUE` + `INSERT OR IGNORE`, então rodar o pipeline duas vezes não duplica dados.
+- **Testes:** `pytest` com mock da API (sem depender de rede) e banco de teste isolado.
+- **Próximo passo:** dashboard analítico para visualizar os dados do warehouse.
 
-## 🛠️ Tecnologias que já domino
+Também mantenho o **[TechStore Analytics](https://github.com/WellitonT/techstore-analytics)**, projeto onde consolidei POO aplicada, testes automatizados e arquitetura de software, e o **[network-security-lab](https://github.com/WellitonT/network-security-lab)**, onde pratico Linux, SSH e automação de infraestrutura.
 
-- **Python** — POO avançada (herança, polimorfismo, encapsulamento, abstração), tratamento de erros customizado, manipulação de arquivos
-- **SQL** — SQLite, modelagem dimensional (Star Schema), consultas
-- **Dados** — `pandas` para tratamento e qualidade de dado, consumo de APIs REST com `requests`
-- **Testes** — `pytest`, testes automatizados cobrindo lógica de negócio
-- **Git & GitHub** — versionamento, resolução de conflitos, boas práticas de commit
+## Stack
 
-## 📌 Projeto em destaque
+**Uso na prática:** Python (POO, tratamento de erros, `pathlib`) · SQL e SQLite · pandas · APIs REST (`requests`, `nba_api`) · pytest e mock · Git e GitHub · Linux e shell
 
-**[NBA Data Warehouse](https://github.com/WellitonT/nba-data-warehouse)** — Data warehouse de estatísticas da NBA, com ingestão resiliente via API oficial, tratamento de qualidade de dado (incluindo detecção e correção de duplicação em registros de trocas de time) e modelagem dimensional (Star Schema com SCD Type 2). Em evolução contínua rumo a arquitetura de lakehouse e, na sequência, playground de Machine Learning.
+**Estudando agora:** Linux, redes e terminal (fase atual) · depois containers, CI/CD, cloud, Machine Learning e MLOps
 
-Também mantenho o **[TechStore Analytics](https://github.com/WellitonT/techstore-analytics)** — projeto de fundamentos, onde consolidei Programação Orientada a Objetos aplicada, testes automatizados e arquitetura de software.
+## Trilha
 
-## 📫 Como me encontrar
+`Python e POO ✔` → `Python para dados ✔` → `Linux, redes e Git (em andamento)` → `Containers, CI/CD e Cloud` → `Machine Learning e MLOps` → `AI Engineering`
 
-- LinkedIn: <https://www.linkedin.com/in/welliton-tiene-336bb7207/>
+Todo estudo é aplicado em projetos contínuos, não em exercícios isolados. Os commits dos repositórios são o registro do que realmente fiz.
 
----
+## Contato
 
-*Este perfil reflete um trabalho contínuo — novos commits são evidência de progresso real, não teoria.*
+- LinkedIn: [welliton-tiene-336bb7207](https://www.linkedin.com/in/welliton-tiene-336bb7207/)
